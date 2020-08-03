@@ -3,9 +3,9 @@
 
  - 💙 Studying NodeJS, ReactJs and React Native
  - 💻 Getting a second major in System Analysis and Development
- - ✨ Ask me about technology, investiment, and sports
- - 📺 In free time I like to travel and watch movies and TV series
- - 🌎 You can talk to me Portuguese, English or Spanish
+ - ✨ Ask me about technology, investiments, and sports
+ - 📺 In free time I like to travel, watch movies and TV series
+ - 🌎 You can talk to me in Portuguese, English or Spanish
  
 ##
 ### Find me:
