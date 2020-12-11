@@ -1,7 +1,7 @@
 # Welcome 👽
-### I'm Lucas Pedroso, I'm a Full Stack Developer
+### I'm Lucas Pedroso, I'm a Java Developer
 
- - 💙 Studying NodeJS, ReactJs and React Native
+ - 💙 Studying the Spring framework
  - 💻 Getting a second major in System Analysis and Development
  - ✨ Ask me about technology, investiments, and sports
  - 📺 In free time I like to travel, watch movies and TV series
