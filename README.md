@@ -1,9 +1,9 @@
 # Welcome 👽
-### I'm Lucas Pedroso, I'm a Java Developer
+### I'm Lucas Pedroso, I'm a Fullstack Developer
 
- - 💙 Studying the Spring framework
+ - 💙 My main skills are NodeJS, ReactJS, Java, and Spring Boot
  - 💻 Getting a second major in System Analysis and Development
- - ✨ Ask me about technology, investiments, and sports
+ - ✨ Ask me about technology and investiments
  - 📺 In free time I like to travel, watch movies and TV series
  - 🌎 You can talk to me in Portuguese, English or Spanish
  
